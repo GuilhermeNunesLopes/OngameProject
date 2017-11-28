@@ -1,0 +1,25 @@
+Pagina index:
+
+1- A data dos ultimos posts 
+devem ser atualizadas de acordo
+com o ultimo criado.
+ 
+Pagina topic
+1-Inserir um novo topico na lista
+2-mudar a numeração de resposta,
+exibições e data do post de acordo
+com o que é postado
+
+Pagina Novo post
+
+1-Cadastrar todos os dados e mandar para o banco
+2-Mandar uma mensagem de criado
+3-Limpar as caixas de texto
+
+Pagina Post
+
+1- Cadastrar e mandar para o banco
+2-Mandar a mensagem de criado 
+3-limpar a caixa
+4-Mudar a estrutura da pagina em html para 
+o novo post ser inserido
